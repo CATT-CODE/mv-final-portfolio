@@ -1,6 +1,6 @@
 # Final Portfolio
 
-This repository is a collection of some of my key learnings during my 2023-2024 apprenticeship at Warner Music Group.
+This repository is a collection of some of my key learnings during my 2023-2024 Software Engineering apprenticeship at Warner Music Group.
 
 ## Overview of Apprenticeship
 
