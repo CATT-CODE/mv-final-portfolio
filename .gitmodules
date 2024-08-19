@@ -1,3 +1,6 @@
 [submodule "Frontend Project/react-notes-app"]
 	path = Frontend Project/react-notes-app
 	url = https://github.com/CATT-CODE/react-notes-app.git
+[submodule "Hackathon Project/music-library-manager"]
+	path = Hackathon Project/music-library-manager
+	url = https://github.com/CATT-CODE/music-library-manager.git
