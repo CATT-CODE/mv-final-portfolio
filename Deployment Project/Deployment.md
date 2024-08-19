@@ -22,6 +22,8 @@ This project integrates SonarQube analysis into our Jenkins-based CI/CD pipeline
 
 ### CI/CD Pipeline Flow
 
+<img width="600" alt="image" src="https://github.com/user-attachments/assets/d55ed9f4-c931-43a6-bc19-bac9cd91f91d">
+
 Below is a brief overview of the CI/CD pipeline:
 
 1. **GitHub Repository (Code Commit):** Developers commit code to the GitHub repository.
