@@ -8,17 +8,21 @@ The React Notes App is a web application I developed to help users manage their 
 
 - **Users:** The target users are individuals looking to organize their daily tasks and notes in a simple, user-friendly interface.
 - **Job:** The app serves as a personal note-taking tool that not only allows users to keep track of their thoughts and tasks but also enhances productivity with AI-driven features like note summarization and generation.
-- **Inspiration:** I was inspired to create this app to address the need for a straightforward yet powerful note-taking solution that integrates modern AI capabilities, helping users to manage their notes more effectively.
+- **Inspiration:** I was inspired to create this app to address the need for a straightforward yet powerful note-taking solution that integrates modern AI capabilities, helping users manage their notes more effectively.
 - **Key Features:** Key features include note management (add, edit, delete), searching and filtering notes by text and color, AI integration for note summarization and generation, and a dark mode toggle for a better user experience.
 
 ### STAR Interview Questions
 
 - **Situation:** I created the React Notes App as a solution for individuals who need a versatile and efficient tool to manage their notes and tasks. The application also explores the integration of AI for enhancing note-taking processes.
-- **Task:** Before diving into the development, I outlined the app's key functionalities, such as state management using React Context, persistent data storage with local storage, and AI-powered features using OpenAI's API. The design process involved setting up the project structure and integrating Bootstrap for styling.
+- **Task:** Before diving into the development, I outlined the app's key functionalities, such as state management using React Context, persistent data storage with local storage, and AI-powered features using OpenAI's API. The design process involved setting up the project component structure and integrating Bootstrap for styling along with some custom CSS.
 - **Action:** I developed the application using React and managed the global state with React Context. The AI integration was achieved by connecting to OpenAI's API, enabling features like note summarization and generation. Additionally, I implemented a dark mode feature and ensured the app's responsiveness and accessibility across different devices.
 - **Result:** The final application allows users to manage their notes efficiently while benefiting from AI-powered features. The app's clean interface, combined with its advanced capabilities, provides an enhanced note-taking experience. The application is ready to be deployed and used as a daily productivity tool.
 
+
 ![React Notes App Screenshot]()
+<img width="650" alt="React Notes App Screenshot" src="https://github.com/user-attachments/assets/11647d79-fce7-45bf-8ce0-891e61644222">
+<img width="650" alt="React Notes App Screenshot" src="https://github.com/user-attachments/assets/160c0b19-9dcd-4bb4-b3e6-9e761a407ffa">
+
 
 ## Technologies
 
