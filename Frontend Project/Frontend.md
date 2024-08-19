@@ -52,7 +52,7 @@ The React Notes App is a web application I developed to help users manage their 
 
 - **Situation:** The React Notes App required managing state across multiple components, especially when handling dark mode settings, notes, and AI-generated content.
 - **Action:** I utilized the React Context API to manage global state, ensuring that components had access to necessary data and actions. I also implemented local storage for persisting state across sessions, ensuring user data was preserved even after the browser was closed.
-- **Result:** The application manages state efficiently, providing a seamless user experience with instant updates across components when data changes. The use of React Context and local storage ensures that the app is both scalable and reliable.
+- **Result:** The application manages state efficiently, providing a seamless user experience with instant updates across components when data changes. The use of React Context and local storage ensures that the app is both scalable and reliable. This project solidified my knowledge in using React Context for state management and reinforced my understanding of design principles for creating responsive and user-friendly interfaces.
 
 ### JF 2.5: Can implement a responsive User Interface
 
