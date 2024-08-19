@@ -20,6 +20,7 @@ The ELT Anomaly Detection project is designed to enhance the monitoring capabili
 - **Action:** I developed the detailed design for logging key metrics, integrating them with CloudWatch, and configuring alarms based on dynamic thresholds. I also created a script to automate the creation of CloudWatch alarms for each job metric, ensuring scalability.
 - **Result:** The final implementation provided a robust monitoring solution that detects anomalies in data loads, ensuring that data quality is maintained even when jobs are marked as successful. The automated alarm system allows the team to respond quickly to any issues, significantly improving data reliability.
 
+<img width="650" alt="Anomaly Detection Alarm" src="https://github.com/user-attachments/assets/4a03ce07-909f-4f47-b993-146e3f73f9dc">
 
 ## Technologies
 
