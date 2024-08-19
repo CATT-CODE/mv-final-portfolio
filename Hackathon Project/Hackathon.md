@@ -18,7 +18,12 @@ Music Library Manager is a Flask-based web application I created to allow users 
 - **Action:** I implemented the application using Flask for the backend, with user authentication and session management handled through Flask-Login. The music tracks are uploaded to an AWS S3 bucket, and metadata is managed using the eyed3 library. The bulk action functionality was developed to allow users to perform edits and deletions on multiple tracks in a single operation.
 - **Result:** The final application allows users to securely upload and manage their music tracks with ease. Key functionalities such as bulk editing and the ability to handle large libraries make it a powerful tool for any music lover. The application has been deployed and can be accessed live [here](https://music-library-9r5k.onrender.com). A video demo of the application is also available [here](https://youtu.be/fT3F1dvJn-k).
 
-![Music Library Manager Screenshot](screenshot.png)
+
+<img width="650" alt="Music Library Manager Screenshot" src="https://github.com/user-attachments/assets/29e716c3-6ac3-42ec-a786-79b0d4bcd65f">
+
+<img width="650" alt="Music Library Manager Screenshot S3" src="https://github.com/user-attachments/assets/2ace3c2c-67fd-4af1-96f2-757f3d26a92f">
+
+
 
 ## Technologies
 
