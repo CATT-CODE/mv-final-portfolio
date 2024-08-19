@@ -1,4 +1,4 @@
-# Project #3: ELT Anomaly Detection
+# Backend Project: ELT Anomaly Detection
 
 [Link to ELT Anomaly Detection Design Document](https://docs.google.com/document/d/13g6_KoIllvLP1QVaUJkUU7qoHKVrtWjMEuZ9IvUMzQs/edit?usp=sharing)
 
