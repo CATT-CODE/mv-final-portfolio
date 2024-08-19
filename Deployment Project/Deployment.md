@@ -17,8 +17,8 @@ This project integrates SonarQube analysis into our Jenkins-based CI/CD pipeline
 
 - **Situation:** Our ELT framework's Docker containers required more rigorous quality checks to ensure reliability. The existing process lacked automated quality assurance, which led to the integration of SonarQube into our Jenkins CI/CD pipeline.
 - **Task:** The task involved setting up a CI/CD pipeline that could automatically analyze code quality and test coverage using SonarQube during the build process, ensuring that only code meeting our quality standards would be deployed.
-- **Action:** I configured the Jenkins pipeline to include steps for building Docker containers, running unit tests, and performing SonarQube analysis. Quality gates were defined within SonarQube to enforce coding standards, and automated checks were integrated into the pipeline.
-- **Result:** The result was a more robust CI/CD pipeline that automatically ensures code quality and reliability before deployment. This integration has reduced the number of bugs and security vulnerabilities in our ELT framework and has streamlined the development process.
+- **Action:** I configured the Jenkins pipeline to include steps for building Docker containers, running unit tests, and performing SonarQube analysis. Quality gates were defined within SonarQube to enforce coding standards, and automated checks were integrated into the pipeline. One of the main challenges was figuring out how to effectively integrate SonarQube into our existing Jenkins environment, ensuring smooth interaction between the two systems.
+- **Result:** The result was a more robust CI/CD pipeline that automatically ensures code quality and reliability before deployment. This integration has reduced the number of bugs and vulnerabilities in our ELT framework and has streamlined the development process. Through this project, I became more proficient in Docker and gained a deeper understanding of our company’s deployment processes in Jenkins.
 
 ### CI/CD Pipeline Flow
 
