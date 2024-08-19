@@ -29,9 +29,10 @@ The ELT Anomaly Detection project is designed to enhance the monitoring capabili
 - **Libraries:** Boto3 (AWS SDK for Python)
 - **CI/CD Tool:** Jenkins
 
-## Architechture
+## Architecture
 
-Anomaly Detection Flow Chart
+<img width="650" alt="Anomaly Detection Flow Chart" src="https://github.com/user-attachments/assets/46c655ed-3d3a-4628-9aab-9f4255c749ce">
+
 
 ## Competencies
 
