@@ -19,7 +19,6 @@ The React Notes App is a web application I developed to help users manage their 
 - **Result:** The final application allows users to manage their notes efficiently while benefiting from AI-powered features. The app's clean interface, combined with its advanced capabilities, provides an enhanced note-taking experience. The application is ready to be deployed and used as a daily productivity tool.
 
 
-![React Notes App Screenshot]()
 <img width="650" alt="React Notes App Screenshot" src="https://github.com/user-attachments/assets/11647d79-fce7-45bf-8ce0-891e61644222">
 <img width="650" alt="React Notes App Screenshot" src="https://github.com/user-attachments/assets/160c0b19-9dcd-4bb4-b3e6-9e761a407ffa">
 
